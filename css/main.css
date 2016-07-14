@@ -1,0 +1,44 @@
+#back{
+	background-image: url(../cat.jpg);
+	background-size: cover;
+	max-width: 100%;
+	padding: 5%;
+}
+.reloj {
+    margin: 0 auto;
+    padding: 30px;
+    border: 1px solid #333;
+    color: #fff;
+    text-align: center;
+}
+#fecha {
+    font-family: Roboto Condensed;
+    font-size: 36px;
+    text-shadow: 0 0 5px #00c6ff;
+}
+
+#hora {
+    margin: 0 auto;
+    padding: 0px;
+    list-style: none;
+    font-size: 70px;
+    font-family: Roboto condensed;
+    text-shadow: 0 0 5px #00c6ff;
+}
+.ciudades{
+    color: black;
+    font-family: Roboto Condensed;
+    font-size: 30px;
+    text-shadow: 0 0 5px #00c6ff;
+    font-weight: bold;
+}
+ul{ 
+    list-style: none;
+    padding: 10px 0;
+}
+li{
+    padding: 5px;
+}
+.color{
+    color: red;
+}
